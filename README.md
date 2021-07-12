@@ -49,24 +49,11 @@ Eu foco na teoria + prática, assim você aprende os fundamentos por trás de ca
 
 ## :postbox: Entrega
 
-#### Tabela dos cursos :clipboard:
+#### Concluido :clipboard:
 
-|                                                 | curso                       | descrição                                                                                                                      | respositório |   projet   |
-| :---------------------------------------------: | :-------------------------- | :----------------------------------------------------------------------------------------------------------------------------- | :----------: | :--------: |
-|  <img src="./assets/leao.svg" width="200px" />  | Web Design Completo         | Este curso é para quem deseja entrar ou já está no mercado de criação de websites.                                             |   [Link]()   | _[Page]()_ |
-| <img src="./assets/cervo.svg" width="200px" />  | CSS Avançado posicionamento | O foco é passar de maneira exaustiva os fundamentos das propriedades e como elas agem no layout do site.                       |   [Link]()   | _[Page]()_ |
-| <img src="./assets/ovelha.svg" width="200px" /> | CSS FlexBox                 | No curso de CSS Flexbox você irá aprender como criar um layout responsivo no CSS utilizando apenas as propriedades do Flexbox. |   [Link]()   | _[Page]()_ |
-|  <img src="./assets/gato.svg" width="200px" />  | CSS Grid Layout             | No curso de CSS Grid Layout você irá aprender como criar um layout responsivo.                                                 |   [Link]()   | _[Page]()_ |
-| <img src="./assets/abelha.svg" width="200px" /> | CSS com SASS                | No curso de CSS com SASS você irá aprender como criar variáveis, mixins, funções, loops e outras funcionalidades.              |   [Link]()   | _[Page]()_ |
+Acesse o deploy do projeto [aqui](https://link).
 
-_ps: A tabela acima será sempre atualizada conforme vou realizando outros cursos o/._ :smile:
-
-#### Considerações finais
-
-Foi muito enriquecedor, de um diferencial enorme e abrangente, sobretudo na aprendizagem em CSS, os cursos da origamid são top! Um execelente trabalho de ensino com experiência, método e dicas do André Rafael. Indico a todos o seu treinamento, seja para um iniciante ou já intermediário em web developer.
-
-#
-
+# 
 ## :unlock: Licença
 
 Este projeto está licenciado sob a Licença MIT - consulte [LICENSE](https://opensource.org/licenses/MIT) para maiores detalhes.
