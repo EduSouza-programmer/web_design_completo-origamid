@@ -40,7 +40,7 @@ Este curso é para quem deseja entrar ou já está no mercado de criação de we
 
 Eu foco na teoria + prática, assim você aprende os fundamentos por trás de cada decisão de design ou código. E após isso você implementa em um projeto real. Você já sai do curso com um primeiro site profissional construído.
 
-#### ScreenShots:
+#### Screenshots:
 
 <p align=center >
   <img height="300px"  src="./assets/home_desktop.png"> &nbsp; &nbsp; 
