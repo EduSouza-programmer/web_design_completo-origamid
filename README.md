@@ -27,7 +27,7 @@
 </p>
 
 <p align="center">
-  <a href="#rocket-Sobre-o-Portfólio">Sobre o curso</a>&nbsp; &nbsp; |&nbsp; &nbsp; 
+  <a href="#rocket-Sobre-o-curso">Sobre o curso</a>&nbsp; &nbsp; |&nbsp; &nbsp; 
   <a href="#postbox-Entrega"">Entrega</a>&nbsp; &nbsp; |&nbsp; &nbsp; 
   <a href="#unlock-Licença">Licença</a>
 </p>
@@ -43,8 +43,8 @@ Eu foco na teoria + prática, assim você aprende os fundamentos por trás de ca
 #### Screenshots:
 
 <p align=center >
-  <img height="300px"  src="./assets/home_desktop.png"> &nbsp; &nbsp; 
-  <img height="320px" src="./assets/mobile.png">
+  <img height="210px"  src="./assets/home_desktop.png"> &nbsp; &nbsp; 
+  <img height="235px" src="./assets/mobile.png">
 </p>
 
 ## :postbox: Entrega
