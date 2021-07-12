@@ -43,7 +43,7 @@ Eu foco na teoria + prática, assim você aprende os fundamentos por trás de ca
 #### ScreenShots:
 
 <p align=center >
-  <img height="320px"  src="./assets/home_desktop.png"> &nbsp; &nbsp; 
+  <img height="300px"  src="./assets/home_desktop.png"> &nbsp; &nbsp; 
   <img height="320px" src="./assets/mobile.png">
 </p>
 
