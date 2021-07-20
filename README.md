@@ -50,7 +50,7 @@ Eu foco na teoria + prática, assim você aprende os fundamentos por trás de ca
 
 <br/>
 
-## 🚀 Tecnologias
+## <img height="30" src="https://raw.githubusercontent.com/EduSouza-programmer/EduSouza-programmer/main/assets/stubparrot.gif"> Tecnologias
 
 Esse projeto foi desenvolvido com as seguintes tecnologias:
 
