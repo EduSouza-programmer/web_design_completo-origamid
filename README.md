@@ -26,6 +26,8 @@
   </a>
 </p>
 
+<br/>
+
 <p align="center">
   <a href="#rocket-Sobre-o-curso">Sobre o curso</a>&nbsp; &nbsp; |&nbsp; &nbsp; 
   <a href="#-Tecnologias">Tecnologias</a>&nbsp; &nbsp; |&nbsp; &nbsp; 
