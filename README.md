@@ -28,7 +28,8 @@
 
 <p align="center">
   <a href="#rocket-Sobre-o-curso">Sobre o curso</a>&nbsp; &nbsp; |&nbsp; &nbsp; 
-  <a href="#postbox-Entrega"">Entrega</a>&nbsp; &nbsp; |&nbsp; &nbsp; 
+  <a href="#postbox-Tecnologias">Tecnologias</a>&nbsp; &nbsp; |&nbsp; &nbsp; 
+  <a href="#postbox-Entrega">Entrega</a>&nbsp; &nbsp; |&nbsp; &nbsp; 
   <a href="#unlock-Licença">Licença</a>
 </p>
 
@@ -46,6 +47,15 @@ Eu foco na teoria + prática, assim você aprende os fundamentos por trás de ca
   <img height="210px"  src="./assets/home_desktop.png"> &nbsp; &nbsp; 
   <img height="235px" src="./assets/mobile.png">
 </p>
+
+## 🚀 Tecnologias
+
+Esse projeto foi desenvolvido com as seguintes tecnologias:
+
+- <a href="https://developer.mozilla.org/pt-BR/docs/Web/HTML"><img src="https://img.icons8.com/color/96/000000/html-5--v1.png" height="55px" />HTML</a>
+- [CSS](https://developer.mozilla.org/pt-BR/docs/Web/CSS)
+- [Javascript](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript)
+
 
 ## :postbox: Entrega
 
