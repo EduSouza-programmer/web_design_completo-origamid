@@ -71,7 +71,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ## :postbox: Entrega
 
-#### Concluido :clipboard:
+#### Concluído :clipboard:
 
 Acesse o deploy do projeto [aqui](https://edusouza-programmer.github.io/web_design_completo-origamid/).
 
