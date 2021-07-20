@@ -54,9 +54,13 @@ Eu foco na teoria + prática, assim você aprende os fundamentos por trás de ca
 
 Esse projeto foi desenvolvido com as seguintes tecnologias:
 
-<a href="https://developer.mozilla.org/pt-BR/docs/Web/HTML"><img src="https://img.icons8.com/color/96/000000/html-5--v1.png" height="30px" /><div>HTML</div></a> 
-<!-- <a href="https://developer.mozilla.org/pt-BR/docs/Web/HTML"><img src="https://img.icons8.com/color/96/000000/css3.png" height="30px" /> <br/> CSS</a> 
-<a href="https://developer.mozilla.org/pt-BR/docs/Web/HTML"><img src="https://img.icons8.com/color/96/000000/javascript--v1.png" height="30px" /> <br/> Javascript</a>  -->
+<table cellspacing="0" cellpadding="0">
+  <tr>
+    <td align=center><b align=center><a href="https://developer.mozilla.org/pt-BR/docs/Web/HTML"><div>HTML</div><img src="https://img.icons8.com/color/96/000000/html-5--v1.png" height="40px" /></a> </b></td>
+     <td align=center><b align=center><a href="https://developer.mozilla.org/pt-BR/docs/Web/HTML"><div>CSS</div><img src="https://img.icons8.com/color/96/000000/css3.png" height="40px" /></a> </b></td>
+       <td align=center><b align=center><a href="https://developer.mozilla.org/pt-BR/docs/Web/HTML"><div>Javascript</div><img src="https://img.icons8.com/color/96/000000/javascript--v1.png" height="40px" /></a> </b></td>
+  </tr>
+</table>
 
 
 <br/>
