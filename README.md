@@ -52,7 +52,6 @@ Eu foco na teoria + prática, assim você aprende os fundamentos por trás de ca
   <img height="235px" src="./assets/mobile.png">
 </p>
 
-
 <br/>
 
 ## <img height="30" src="https://raw.githubusercontent.com/EduSouza-programmer/EduSouza-programmer/main/assets/stubparrot.gif"> Tecnologias
@@ -62,7 +61,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 <table >
   <tr>
     <td align=center><a href="https://developer.mozilla.org/pt-BR/docs/Web/HTML"><div>HTML</div><img src="https://img.icons8.com/color/96/000000/html-5--v1.png" height="40px" /></a></td>
-      <td align=center><a href="https://developer.mozilla.org/pt-BR/docs/Web/HTML"><div>CSS</div><img src="https://developer.mozilla.org/pt-BR/docs/Web/CSS" height="40px" /></a> </td>
+      <td align=center><a href="https://developer.mozilla.org/pt-BR/docs/Web/CSS"><div>CSS</div><img src="https://img.icons8.com/color/96/000000/css3.png" height="40px" /></a> </td>
         <td align=center><a href="https://developer.mozilla.org/pt-BR/docs/Web/JavaScript"><div>Javascript</div><img src="https://img.icons8.com/color/96/000000/javascript--v1.png" height="40px" /></a></td>
   </tr>
 </table>
