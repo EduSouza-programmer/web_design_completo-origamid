@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img align="center" alt="Imagem trybe" src="https://www.origamid.com/projetos/og-origamid.png" width="400px" />
+  <img align="center" alt="Imagem origamid" src="https://www.origamid.com/projetos/og-origamid.png" width="400px" />
 </h1>
 
 <h3 align="center">
