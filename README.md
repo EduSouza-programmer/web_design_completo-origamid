@@ -48,14 +48,18 @@ Eu foco na teoria + prática, assim você aprende os fundamentos por trás de ca
   <img height="235px" src="./assets/mobile.png">
 </p>
 
+<br/>
+
 ## 🚀 Tecnologias
 
 Esse projeto foi desenvolvido com as seguintes tecnologias:
 
-- <a href="https://developer.mozilla.org/pt-BR/docs/Web/HTML"><img src="https://img.icons8.com/color/96/000000/html-5--v1.png" height="55px" />HTML</a>
-- [CSS](https://developer.mozilla.org/pt-BR/docs/Web/CSS)
-- [Javascript](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript)
+<a href="https://developer.mozilla.org/pt-BR/docs/Web/HTML"><img src="https://img.icons8.com/color/96/000000/html-5--v1.png" height="30px" /> HTML</a>
+<a href="https://developer.mozilla.org/pt-BR/docs/Web/HTML"><img src="https://img.icons8.com/color/96/000000/css3.png" height="30px" /> CSS</a>
+<a href="https://developer.mozilla.org/pt-BR/docs/Web/HTML"><img src="https://img.icons8.com/color/96/000000/javascript--v1.png" height="30px" /> Javascript</a>
 
+
+<br/>
 
 ## :postbox: Entrega
 
