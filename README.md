@@ -26,7 +26,7 @@
   </a>
 </p>
 
-<br/>
+
 
 <p align="center">
   <a href="#rocket-Sobre-o-curso">Sobre o curso</a>&nbsp; &nbsp; |&nbsp; &nbsp; 
@@ -34,6 +34,8 @@
   <a href="#postbox-Entrega">Entrega</a>&nbsp; &nbsp; |&nbsp; &nbsp; 
   <a href="#unlock-Licença">Licença</a>
 </p>
+
+<br/>
 
 ## :rocket: Sobre o curso
 
